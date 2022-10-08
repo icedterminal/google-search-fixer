@@ -1,11 +1,11 @@
 {
   "addonName": {
-    "message": "Google Search Fixer"
+    "message": "Modern G Search"
   },
   "addonDescription": {
-    "message": "Override the user-agent string presented to Google Search pages to receive the search experience shown to Chrome."
+    "message": "Override the user-agent string presented to Google Search pages to receive the search experience shown on Chrome mobile."
   },
   "addonAuthorsList": {
-    "message": "Thomas Wisniewski <twisniewski@mozilla.com>"
+    "message": "icedterminal"
   }
 }
