@@ -1,4 +1,4 @@
-const RunningFirefoxVersion = (navigator.userAgent.match(/Firefox\/([0-9.]+)/) || ["", "118.0"])[1];
+const RunningFirefoxVersion = (navigator.userAgent.match(/Firefox\/([0-9.]+)/) || ["", "127.0"])[1];
 const RunningAndroidVersion = navigator.userAgent.match(/Android [0-9.]+/) || "Android 14";
 
 const ChromeMajorVersionToMimic = `${parseInt(RunningFirefoxVersion) + 4}.0.0.0`;
