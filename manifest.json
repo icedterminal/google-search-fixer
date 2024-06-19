@@ -9,12 +9,12 @@
   "browser_specific_settings": {
     "gecko": {
       "id": "icedterminal@gmail.com",
-      "strict_min_version": "116",
+      "strict_min_version": "116"
     },
     "gecko_android": {
       "id": "icedterminal@gmail.com",
-      "strict_min_version": "116",
-    },
+      "strict_min_version": "116"
+    }
   },
   "icons": {
     "16": "icons/google_fixed.svg",
