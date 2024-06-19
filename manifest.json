@@ -5,13 +5,10 @@
   "description": "__MSG_addonDescription__",
   "author": "__MSG_addonAuthorsList__",
   "version": "1.9",
-  "homepage_url": "https://github.com/icedterminal/google-search-fixer",
+  "homepage_url": "https://github.com/icedterminal/google-search-fixer-phone",
   "browser_specific_settings": {
-    "gecko": {
-      "id": "icedterminal@gmail.com"
-    },
     "gecko_android": {
-      "id": "icedterminal@gmail.com"
+      "id": "{e51ce8be-2e1e-4cf0-8943-228cbdcd8a85}"
     }
   },
   "icons": {
