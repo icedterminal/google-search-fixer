@@ -5,7 +5,7 @@
   "description": "__MSG_addonDescription__",
   "author": "__MSG_addonAuthorsList__",
   "version": "1.9",
-  "homepage_url": "https://github.com/icedterminal/google-search-fixer",
+  "homepage_url": "https://github.com/icedterminal/google-search-fixer-tablet",
   "browser_specific_settings": {
     "gecko": {
       "id": "icedterminal@gmail.com"
