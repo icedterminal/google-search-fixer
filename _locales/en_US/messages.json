@@ -1,9 +1,9 @@
 {
   "addonName": {
-    "message": "Modern G Search"
+    "message": "Modern G Search (Phone)"
   },
   "addonDescription": {
-    "message": "Override the user-agent string presented to Google Search pages to receive the search experience shown on Chrome mobile."
+    "message": "Override the user-agent string presented to Google Search pages as a phone to receive the search experience shown on Chrome mobile."
   },
   "addonAuthorsList": {
     "message": "icedterminal"
