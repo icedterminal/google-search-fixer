@@ -7,6 +7,9 @@
   "version": "1.9",
   "homepage_url": "https://github.com/icedterminal/google-search-fixer-tablet",
   "browser_specific_settings": {
+    "gecko": {
+      "id": "{459a2340-f75d-4677-a8c3-75179c596e69}"
+    },
     "gecko_android": {
       "id": "{d87ba812-cb9b-4d2f-aa42-eb26661322d5}"
     }
