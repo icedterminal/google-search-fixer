@@ -7,6 +7,9 @@
   "version": "1.9",
   "homepage_url": "https://github.com/icedterminal/google-search-fixer-phone",
   "browser_specific_settings": {
+    "gecko": {
+      "id": "{cd380c3c-6af3-487f-94c3-01af30b6a0e0}"
+    },
     "gecko_android": {
       "id": "{e51ce8be-2e1e-4cf0-8943-228cbdcd8a85}"
     }
